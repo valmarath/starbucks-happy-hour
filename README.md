@@ -6,6 +6,6 @@ Starbucks Happy Hour is a project made alongside my course in [B7Web](https://b7
 
 ## See Starbucks Happy Hour in action
 
-- Download all files and open the [index.hmtl](https://github.com/valmarath/starbucks-happy-hour/blob/main/index.html) file on your browser. 
+- Download all files and open the [index.html](https://github.com/valmarath/starbucks-happy-hour/blob/main/index.html) file on your browser. 
 
 - To test the responsive features, you can use the inspect option to change the dimensions as you please and see how it responds. 
